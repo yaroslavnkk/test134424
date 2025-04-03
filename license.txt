@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magic Stick - Minecraft
+* source:	https://sketchfab.com/3d-models/magic-stick-minecraft-6784a30676ae4d7794d40307f0fdfa47
+* author:	Gabriel_Dja (https://sketchfab.com/Gabriel_Dja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magic Stick - Minecraft" (https://sketchfab.com/3d-models/magic-stick-minecraft-6784a30676ae4d7794d40307f0fdfa47) by Gabriel_Dja (https://sketchfab.com/Gabriel_Dja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
